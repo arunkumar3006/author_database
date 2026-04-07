@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+logs/
+session/
+input/*.xlsx
+output/*.xlsx
+out.txt
+output.json
+output_utf8.json
+profile_page.html
+test2.py
+test_api.py
+test_profile.py
+.venv/
+.vscode/
